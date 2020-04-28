@@ -9,7 +9,8 @@ After many trying of
 
 - Docker (problem with config)
 - Vagrant/VirtualBox (too heavy for my MacBook Air)
-- Native stack (config on Mojave sucked my mind today)
+- Native stack (config on Mojave sucked my mind today)<br>
+https://coolestguidesontheplanet.com/install-apache-mysql-php-on-macos-mojave-10-14/
 
 Installed with Laravel Valet as the most easy and lightweight<br><br>
 
