@@ -7,7 +7,7 @@ Redevelopment.
 
 After many trying of 
 
-- Docker (problem with config)
+- Docker (problem with config))
 - Vagrant/VirtualBox (too heavy for my MacBook Air)
 - Native stack (config on Mojave sucked my mind today)
 
