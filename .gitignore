@@ -33,6 +33,10 @@ wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
 
+# exclude child theme
+# Now exclude everything in wp-content …
+/wp-content/themes/Newspaper-child
+
 # Ignore everything in the "plugins" directory, except the plugins you
 # specify (see the commented-out examples for hints on how to do this.)
 wp-content/plugins/*
