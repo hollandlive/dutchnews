@@ -41,3 +41,12 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'yourpass
 Error: ERROR 1045 (28000): Access denied for user 'root'@'localhost' The installer halts at the database creation stage because it doesn't have a password for your local MySQL instance.
 
 Prevent this from happening by appending your wp valet commands like such: wp valet new site --dbpass=local_root_password.
+
+valet uninstall
+valet install
+valet link
+brew services restart --all
+valet restart
+valet open
+
+
