@@ -50,5 +50,7 @@ valet restart
 valet open<br>
 for these PHO versions error (7.1 on localserver and 7.4 on brew PHP)<br><br>
 https://stitcher.io/blog/php-74-upgrade-mac
-
+<br>
+<br>
+brew services restart php
 
