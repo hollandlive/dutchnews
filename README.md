@@ -47,6 +47,8 @@ valet install
 valet link
 brew services restart --all
 valet restart
-valet open
+valet open<br>
+for these PHO versions error (7.1 on localserver and 7.4 on brew PHP)<br><br>
+https://stitcher.io/blog/php-74-upgrade-mac
 
 
