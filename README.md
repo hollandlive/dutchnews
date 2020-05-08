@@ -56,3 +56,6 @@ brew services restart php
 <br><br>
 Mysql versions (5.7 -> 8.0)<br>
 https://gist.github.com/benlinton/d24471729ed6c2ace731
+
+Vagrant workflow <br>
+https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/
