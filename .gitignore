@@ -29,9 +29,9 @@
 
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
-wp-content/*
-!wp-content/plugins/
-!wp-content/themes/
+#wp-content/*
+#!wp-content/plugins/
+#!wp-content/themes/
 
 # exclude child theme
 # Now exclude everything in wp-content …
