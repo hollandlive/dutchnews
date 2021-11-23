@@ -59,3 +59,7 @@ https://gist.github.com/benlinton/d24471729ed6c2ace731
 
 Vagrant workflow <br>
 https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/
+
+23.11.21
+
+Update CV
