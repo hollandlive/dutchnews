@@ -63,3 +63,5 @@ https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/
 23.11.21
 
 Update CV
+
+Installed Local Clean Wordpress 5.8 (native apache, native php 7.3.24)
