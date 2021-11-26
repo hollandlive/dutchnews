@@ -65,3 +65,36 @@ https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/
 Update CV
 
 Installed Local Clean Wordpress 5.8 (native apache, native php 7.3.24)
+
+-------------------------------
+
+26.11.21
+
+Developed Notes
+
+----- Introductory Info - Initial Setup
+
+Necessary Info -
+
+Apache, MySQL, PHP setup Mac BigSur (and permissions) - https://wpbeaches.com/install-apache-mysql-php-on-macos-11-big-sur-and-earlier-macos/
+
+
+Native Mac Big Sur Apache - Virtual Hosts - https://wpbeaches.com/set-up-virtual-hosts-on-macos-big-sur-11-in-apache/
+
+Multiple PHP versions
+https://getgrav.org/blog/macos-monterey-apache-multiple-php-versions
+
+ES 6 vs ES 5 - changes
+https://www.freecodecamp.org/news/write-less-do-more-with-javascript-es6-5fd4a8e50ee2/
+
+--------
+
+To DO Later - Valet (Laravel) - for local PHP web Dev
+https://wpbeaches.com/setting-up-valet-on-macos-for-local-wordpress-development/
+
+--------
+
+4 websites I was developing 2018 - 2021 (currently online) - Wordpress
+
+
+
