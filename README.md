@@ -99,6 +99,20 @@ https://wpbeaches.com/setting-up-valet-on-macos-for-local-wordpress-development/
 15-30.11.2021 - setting local copies of Wordpress Websites -
 https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
+26-11-21
+
+4 WordPress Repositories set up on local dev now
+
+- Dutchnews
+- Blogsfeeds
+- Fastgreece 
+- Local Gay Experiences
+
+2 Local Dev to Do next Week
+
+- Drupal 8 (M-iQ-v4 from 2016-17)
+- Sage WP files Structure
+ 
 
 
 
