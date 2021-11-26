@@ -96,5 +96,10 @@ https://wpbeaches.com/setting-up-valet-on-macos-for-local-wordpress-development/
 
 4 websites I was developing 2018 - 2021 (currently online) - Wordpress
 
+15-30.11.2021 - setting local copies of Wordpress Websites -
+https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
+
+
+
 
 
