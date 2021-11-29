@@ -112,6 +112,12 @@ https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local
 
 - Drupal 8 (M-iQ-v4 from 2016-17)
 - Sage WP files Structure
+
+-----
+
+29-11-21
+
+
  
 
 
